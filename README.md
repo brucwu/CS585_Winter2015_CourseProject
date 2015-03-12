@@ -1,6 +1,7 @@
 # CS585_Winter2015_CourseProject
 
  Class Demo is made with Unity3D engine (http://unity3d.com/5)
+	
 	Project can be open in Unity version 5.0 or above, the scene is:
 	Assets/Class_Demo.unity
 	
